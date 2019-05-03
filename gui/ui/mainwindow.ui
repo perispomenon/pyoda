@@ -23,7 +23,7 @@
       <item>
        <widget class="QPushButton" name="pushButton_translate">
         <property name="text">
-         <string>Translate</string>
+         <string>Yodify</string>
         </property>
        </widget>
       </item>

@@ -44,6 +44,6 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Funny Translations"))
-        self.pushButton_translate.setText(_translate("MainWindow", "Translate"))
+        self.pushButton_translate.setText(_translate("MainWindow", "Yodify"))
 
 
